@@ -16,3 +16,19 @@ Criação de uma tabela estruturada com informações essenciais:
  
 ## Conclusão  
 A atividade proporciona ao aluno a prática de **modelagem tributária no Excel**, unindo conceitos de legislação fiscal com técnicas avançadas de planilhas. O resultado é uma ferramenta funcional para planejamento financeiro e tomada de decisão.
+
+
+<center>
+
+![imagem 01](./Assets/Titular.png)
+
+<br>
+
+![imagem 02](./Assets/Notas.png)    
+
+<br>
+
+![imagem 03](./Assets/Informes.png)    
+
+
+</center>
